@@ -9,3 +9,4 @@ Propozycja kolejnoci zdarzeń:
 2. Sprawdzanie kolizji
 3. Wczytywanie klawiszy
 4. Rysowanie klatki obrazu
+5.
